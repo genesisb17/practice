@@ -1,0 +1,13 @@
+
+p
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8Æ¹¿‹õ,HIRMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆâ®ãøÿÿÿÿ8é×Þ‹õ,HQRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýôŽž8üìâ‹õ,HSRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦´èÅ8ªÆß‹õ,HRRMAJORZ
+CODE_SMELL

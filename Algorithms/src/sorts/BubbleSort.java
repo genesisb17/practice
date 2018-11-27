@@ -3,6 +3,7 @@ package sorts;
 public class BubbleSort {
 
 	// Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+	// O(n^2)
 	public static void main(String[] args) {
 		int[] test = {10, 2, 5, 11, 6, 60, 3};
 		int[] out = bubbleSort(test);

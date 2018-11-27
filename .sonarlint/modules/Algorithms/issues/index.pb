@@ -11,3 +11,7 @@ H
 src/sorts/QuickSort.java,5\3\539f86f5aee23f8cddec2f8bb364f4c0a63bfe84
 H
 src/arrays/Spiral2D.java,1\8\187b71ff0429563027359531a8a971a228ba9744
+M
+src/sequences/LookAndSay.java,6\5\658dc8c596a1283cd86262dd7561d1c172e0d851
+I
+src/numbers/IntToHex.java,1\5\15c8f4a8d07e587def83dcfaf61d98421e015a76

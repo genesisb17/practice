@@ -34,5 +34,14 @@ public class QuickSort {
 		// TODO Auto-generated method stub
 
 	}
+	
+	
+	static int[] quickSort(int[] arr, int low, int high) {
+	
+		
+		return null;
+	}
+	
+	
 
 }

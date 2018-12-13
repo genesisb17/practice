@@ -15,3 +15,5 @@ M
 src/sequences/LookAndSay.java,6\5\658dc8c596a1283cd86262dd7561d1c172e0d851
 I
 src/numbers/IntToHex.java,1\5\15c8f4a8d07e587def83dcfaf61d98421e015a76
+K
+src/numbers/SortDigits.java,5\0\503e3d30001903a0f4c6a764a2d0ec40793ef662

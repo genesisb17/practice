@@ -15,7 +15,7 @@ public class LookAndSay {
 		String[] values = new String[n];
 		
 		values[0] = "1";
-		if(n == 0) return values;
+		if(n <= 1) return values;
 		
 		//add empty strings to string array so they are not null vals
 		for(int i = 1; i < n; i++) {

@@ -1,8 +1,8 @@
 
-Tsquid:S16439"Use a StringBuilder instead.(ε½γµϋÿÿÿÿ8έοψυ,HWRMINORZ
-CODE_SMELL
 k
-squid:S106	"9Replace this use of System.out or System.err by a logger.(ο–Ϋ™8Λ¤ύυ,HZRMAJORZ
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ο–Ϋ™8Λ¤ύυ,H[RMAJORZ
 CODE_SMELL
-squid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ξ–λµ8έοψυ,HXRMINORZ
+Tsquid:S16439"Use a StringBuilder instead.(ε½γµϋÿÿÿÿ8έοψυ,H\RMINORZ
+CODE_SMELL
+squid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ξ–λµ8έοψυ,H]RMINORZ
 CODE_SMELL

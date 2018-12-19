@@ -17,3 +17,7 @@ I
 src/numbers/IntToHex.java,1\5\15c8f4a8d07e587def83dcfaf61d98421e015a76
 K
 src/numbers/SortDigits.java,5\0\503e3d30001903a0f4c6a764a2d0ec40793ef662
+F
+src/arrays/HasSum.java,0\5\05f6c9594fb6f4a3d8afcc3e73fbae6f6878815c
+V
+&src/collections/SetImplementation.java,1\c\1ce7f07f4ebc9dbcc454ad61419b47215dad473b

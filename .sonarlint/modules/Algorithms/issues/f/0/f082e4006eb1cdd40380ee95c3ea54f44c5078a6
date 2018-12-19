@@ -1,13 +1,6 @@
 
-‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µΛ›`8–Α”ες,H8RMINORZ
+‘squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Α€ϋ·ϊÿÿÿÿ8–Α”ες,H{RMINORZ
 CODE_SMELL
-‘squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Λ³£όÿÿÿÿ8–Α”ες,H9RMINORZ
-CODE_SMELL
-p
-squid:S106)"9Replace this use of System.out or System.err by a logger.(χ΄ηΏόÿÿÿÿ8–Α”ες,H:RMAJORZ
-CODE_SMELL
-p
-squid:S106*"9Replace this use of System.out or System.err by a logger.(π›—τόÿÿÿÿ8–Α”ες,H;RMAJORZ
-CODE_SMELL
-[squid:S1172"(Remove this unused method parameter "n".(®ª΅Ι8–Α”ες,H<RMAJORZ
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΔύύΨ8–Α”ες,H|RMAJORZ
 CODE_SMELL

@@ -12,8 +12,9 @@ public class SetImplementationTest {
 		a.insert(5);
 		a.insert(10);
 		a.print();
-		
-		System.out.println("random - " + a.getRandomElement());
+		System.out.println("-----");
+		a.remove(7);
+		a.print();
 
 	}
 

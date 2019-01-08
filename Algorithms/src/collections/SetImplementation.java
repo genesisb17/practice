@@ -18,7 +18,7 @@ public class SetImplementation<T> {
 	private Object[] entities;
 	
 	public SetImplementation() {
-		this.entities = new Object[1];
+		this.entities = new Object[16];
 	}
 	
 	public SetImplementation(T[] objs) {
@@ -34,7 +34,7 @@ public class SetImplementation<T> {
 	
 	public void insert(T obj) {
 		if(index == entities.length) {
-			Object[] temp = new Object[entities.length + 1];
+			Object[] temp = new Object[entities.length + 16];
 			for(int i = 0; i < entities.length; i++) {
 				temp[i] = entities[i];
 			}
@@ -51,10 +51,17 @@ public class SetImplementation<T> {
 		}
 	}
 	
-	public void remove(T obj) { //not complete
+	public void remove(T obj) { 
 		for(int i = 0; i < entities.length; i++) {
 			if(entities[i].equals(obj)) {
-				
+				Object[] temp = new Object[entities.length-1];
+				for(int j = 0; j <= i-1; j++) {
+					temp[j] = entities[j];
+				}
+				for(int j = i; j < entities.length-1; j++) {
+					temp[j] = entities[j+1];
+				}
+				entities = temp;
 			}
 		}
 		

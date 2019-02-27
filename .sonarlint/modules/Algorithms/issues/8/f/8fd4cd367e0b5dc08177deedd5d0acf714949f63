@@ -1,0 +1,9 @@
+
+Isquid:S16438"Use a StringBuilder instead.(’ï½§H¤RMINORZ
+CODE_SMELL
+Isquid:S16434"Use a StringBuilder instead.(Š±Í§H£RMINORZ
+CODE_SMELL
+Nsquid:S16431"Use a StringBuilder instead.(°Éç£þÿÿÿÿH¢RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'org.junit.Test'.(ùžøèøÿÿÿÿ8Ô„ºï‚-H²RMINORZ
+CODE_SMELL

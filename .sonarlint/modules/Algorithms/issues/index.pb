@@ -21,3 +21,25 @@ F
 src/arrays/HasSum.java,0\5\05f6c9594fb6f4a3d8afcc3e73fbae6f6878815c
 V
 &src/collections/SetImplementation.java,1\c\1ce7f07f4ebc9dbcc454ad61419b47215dad473b
+H
+src/sorts/Twisted37.java,8\f\8fd4cd367e0b5dc08177deedd5d0acf714949f63
+O
+src/strings/PdfHighlighter.java,3\4\34294355b1ae46fbf080c3a4caa84d050e605234
+R
+"src/math/GreatestCommonFactor.java,4\1\41ddce97834eaae179de95819100db88844b5f59
+Q
+!src/strings/UnicheCharacters.java,9\c\9c28bf4662f940cd267dc9c29448871aadd2489a
+Q
+!src/strings/UniqueCharacters.java,b\9\b9b1ba2e984d5a3b8c404feba11524a269620df5
+O
+src/strings/ReverseCString.java,a\b\abc515a28b57426717d14726d9e5feda06befb53
+U
+%src/strings/RemoveDuplicateChars.java,1\6\1698a0d665906da3d68d316151c09f6b80480416
+Y
+)src/strings/RemoveDuplicateCharsTest.java,d\7\d70dc31c958452429f27695125cd79ff94c92685
+I
+src/strings/Anagrams.java,2\3\23970007f617a95c3d1b2c60d4cd3af768ebcf59
+K
+src/arrays/RotateImage.java,b\d\bdbb612a1d18be2fecb35c2612c4e78f10708ff0
+L
+src/arrays/ReplaceWith0.java,d\3\d3c5d90c4cfc0ea64108ac7f92ae849b4736d0f6

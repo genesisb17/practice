@@ -1,0 +1,16 @@
+
+q
+squid:S1068"9Replace this use of System.out or System.err by a logger.(é¼Ã´ùÿÿÿÿ8—õÓé†-HRMAJORZ
+CODE_SMELL
+q
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°Âıé†-H‘RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º©¶Ø8—õÓé†-HõRMINORZ
+CODE_SMELL
+squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(©ğ“üşÿÿÿÿ8½Âüé†-HRCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã€‡’8—õÓé†-HöRMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÅ¥Ïÿÿÿÿÿ8—õÓé†-HôRMINORZ
+CODE_SMELL

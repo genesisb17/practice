@@ -1,0 +1,8 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(žÖí³H·RMAJORZ
+CODE_SMELL
+gsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êXH¸RMINORZ
+CODE_SMELL
+isquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿH¹RMINORZ
+CODE_SMELL

@@ -24,7 +24,7 @@ public class Node {
 	
 	@Override
 	public String toString() {
-		return "Data: " + this.data;
+		return "" + this.data;
 	}
 	
 

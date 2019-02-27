@@ -1,0 +1,8 @@
+
+e
+squid:S106	"9Replace this use of System.out or System.err by a logger.(·ã¤üHÇRMAJORZ
+CODE_SMELL
+‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á¶ÇÜÿÿÿÿÿHÆRMINORZ
+CODE_SMELL
+nsquid:S1126"AReplace this if-then-else statement by a single return statement.(ÙÇHÈRMINORZ
+CODE_SMELL

@@ -9,6 +9,11 @@ import static org.junit.Assert.*;
 
 
 public class GetNumsToSum {	
+	/*
+	 * Write a method that takes in an array of numbers and 
+	 * returns the pairs of numbers that add up to a certain
+	 * number. 
+	 */
 	
 	
 

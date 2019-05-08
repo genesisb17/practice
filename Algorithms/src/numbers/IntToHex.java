@@ -6,7 +6,8 @@ import java.util.Map;
 public class IntToHex {
 	
 	public static void main(String[] args) {
-		System.out.println(run(30));
+	System.out.println(run(30));
+		
 	}
 
 
@@ -14,16 +15,29 @@ public class IntToHex {
 
 		if(n>0) 
 		{
-			return findHex(n);
+			return intToHex(n);
 		}
 		else if(n < 0){
-			String negative = "-" + findHex(-n);
+			String negative = "-" + intToHex(-n);
 			return negative;
 		}
 		else{
 			return "0";
 		}
 
+	}
+	
+	
+	public static String intToHex(int num){
+		StringBuilder out = new StringBuilder("");
+		int rem = 0;
+		while(num>0){
+			rem = num%16;
+			out.append(""+ (rem > 9 ?  (Character.toString((char)(rem+87))) : rem));
+			num/=16;
+		}
+		
+		return out.reverse().toString();
 	}
 
 	static String findHex(int n){
